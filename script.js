@@ -1,5 +1,9 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    color: #333;
-}
+// Adicione um efeito hover aos projetos
+document.querySelectorAll('.project-card').forEach(card => {
+    card.addEventListener('mouseover', () => {
+        card.style.transform = 'scale(1.05)';
+    });
+    card.addEventListener('mouseout', () => {
+        card.style.transform = 'scale(1)';
+    });
+});
