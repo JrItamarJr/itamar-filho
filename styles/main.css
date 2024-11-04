@@ -3,7 +3,7 @@ main {
 
   .title p {
     /*cor do titulo (red)*/
-    color: var(--main-red);
+    color: var(--main-blue);
   }
 
   .card {

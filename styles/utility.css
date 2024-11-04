@@ -33,6 +33,7 @@
   span {
     font: var(--text-sm);
     font-weight: 400;
+    text-align: justify;
     color: var(--base-gray-500);
   }
 
