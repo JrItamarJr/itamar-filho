@@ -14,19 +14,28 @@
   .bio {
     display: flex;
     flex-direction: column;
-    padding-block: 128px 56px;
+    padding-block: 80px 56px;
     align-items: center;
 
     .avatar {
       position: relative;
-      /* define que é a caixa como posição relativa. os elementos filhos sâo absolutos a ele*/
+      width: 130px;
+      height: 130px;
+      overflow: hidden;
+    }
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
     }
 
     .icone {
       position: absolute;
-      /* tem a posicao absoluta ao pai que é relativo*/
       bottom: 0;
-      right: 1px;
+      max-width: 30px;
+      max-height: 30px;
+      right: 10px;
     }
   }
 
@@ -43,7 +52,8 @@
       margin-top: 64px;
 
       span {
-        color: var(--main-red);
+        color: var(--main-blue);
+        font-weight: bold;
       }
     }
 
@@ -66,6 +76,8 @@
 
   .badges {
     display: flex;
+    padding-left: 200px;
+    padding-right: 200px;
     justify-content: center;
     gap: 16px;
 
@@ -100,7 +112,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 94px 0px 129px;
+    padding: 50px 0px 129px;
     /* padding-bottom: 57px ; */
 
     img {
