@@ -1,11 +1,6 @@
-# 🖥️ Meu Portfólio - Mayara Jaques
+# 🖥️ Meu Portfólio - Itamar Filho
 
-**Projeto desenvolvido com os conhecimentos adquiridos com o curso da Rocketseat.**
-
-Esta página será constantemente atualizada com novos aprendizados e conceitos adquiridos ao longo do curso.
-
-![Screenshot do Portfólio](.github/intro.png) 
-![Screenshot do Portfólio](.github/projects.png) 
+**Projeto desenvolvido, ainda não FINALIZADO**
 
 ## 🚀 O Que é?
 
@@ -18,32 +13,11 @@ Esse é o meu portfólio online! Aqui você pode conhecer um pouco mais sobre mi
 - **JavaScript**: Para adicionar aquela interatividade.
 - **GitHub Pages**: Onde meu portfólio está hospedado.
 
-## 📦 Como Rodar o Projeto
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/mayarajaques/projeto-portfolio-dev.git
-
-  2. Navegue até a pasta do projeto:
-
-   ```bash
-    cd projeto-portfolio-dev
-```
-3. Abra o index.html no seu navegador preferido.
-
-
-## 🌐 Confira Meu Portfólio
-Você pode ver o projeto ao vivo aqui: [Meu Portfólio](https://mayarajaques.github.io/projeto-portfolio-dev/)
-
 ## 📫 Como Me Encontrar:
 
-LinkedIn: [Mayara Jaques](https://www.linkedin.com/in/mayarajaques/)
+LinkedIn: [Itamar Valvassori Filho](https://www.linkedin.com/in/itamar-filho/)
 
 Email: maayjaques@gmail.com
-
-📝 Contribuições
-Se você tiver sugestões ou ideias para melhorar meu portfólio, fique à vontade para abrir uma issue ou fazer um pull request. Estou sempre aberta a feedback!
 
 ## 👩‍💻 Agradecimentos
 Um agradecimento especial a todos que me ajudaram nessa jornada. Estou sempre aprendendo e buscando crescer na área!
