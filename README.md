@@ -17,7 +17,7 @@ Esse é o meu portfólio online! Aqui você pode conhecer um pouco mais sobre mi
 
 LinkedIn: [Itamar Valvassori Filho](https://www.linkedin.com/in/itamar-filho/)
 
-Email: maayjaques@gmail.com
+Email: valvassoriitamar@gmail.com
 
 ## 👩‍💻 Agradecimentos
 Um agradecimento especial a todos que me ajudaram nessa jornada. Estou sempre aprendendo e buscando crescer na área!
